@@ -13,5 +13,10 @@
 - `git init` → Inisialisasi repository lokal
 - `git clone <URL>` → Menyalin repositori dari GitHub
 - `git add .` → Menambahkan semua perubahan ke staging area
-- `git commit -m "Pesan commit"` → Menyimpan perubahan dengan pesan
+- `git commit -m "Pesan commit"` → Menyimpan perubahan dengan pesan atau menyimpan perubahan ke repository
 - `git push origin main` → Mengunggah perubahan ke GitHub
+- `git branch <nama-branch>` → Membuat branch baru
+- `git checkout <nama-branch>` → Berpindah ke branch lain
+- `git switch <nama-branch>` → Alternatif baru untuk checkout
+- `git add <nama-file>` → Menambahkan perubahan ke staging area
+- `git merge <nama-branch>` → Menggabungkan branch ke main
